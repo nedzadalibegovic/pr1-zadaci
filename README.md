@@ -1,11 +1,9 @@
 # Programiranje 1 - Zadaci
 
 ```c++
-int main() {
+void main() {
 
 	cout << "Hello world!" << endl;
-
-	return 0;
 }
 ```
 
