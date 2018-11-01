@@ -8,12 +8,10 @@ using namespace std;
 
 bool malaSlova(char);
 bool velikaSlova(char);
-bool neodredjeni(char);
-
-int brMala = 0, brVelika = 0, brNeodredjeni = 0;
 
 int main() {
 
+	int brMala = 0, brVelika = 0, brNeodredjeni = 0;
 	char znak;
 
 	do {
