@@ -74,7 +74,7 @@ void prosjek() {
 	float suma = 0;
 	int br = 0;
 
-	for (int i = 0; i < 7; i++) {
+	for (int i = 0; i < broj_studenata; i++) {
 
 		if (prosao(uspjeh[i])) {
 
