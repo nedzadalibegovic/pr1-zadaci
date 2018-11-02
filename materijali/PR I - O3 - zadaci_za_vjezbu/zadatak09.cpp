@@ -26,6 +26,7 @@ int main() {
 
 }
 
+// euklidov algoritam
 int nzd(int a, int b) {
 
 	if (a == 0) {
