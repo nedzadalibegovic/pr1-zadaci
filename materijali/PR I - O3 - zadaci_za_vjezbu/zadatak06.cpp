@@ -2,6 +2,8 @@
 prirodnog broja n preko tastature te izračunava sumu.*/
 
 #include<iostream>
+#include<cmath>
+
 using namespace std;
 
 int main() {
@@ -9,8 +11,12 @@ int main() {
 	int n;
 	float suma = 0;
 
-	cout << "Unesite prirodni broj n: ";
-	cin >> n;
+	do {
+
+		cout << "Unesite prirodni broj n: ";
+		cin >> n;
+
+	} while (!(n > 0));
 
 	for (int i = 1; i <= n; i++) {
 
