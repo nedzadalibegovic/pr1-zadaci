@@ -1,7 +1,7 @@
 # Programiranje 1 - Zadaci
 
 ```c++
-void main() {
+int main() {
 
 	std::cout << "Hello world!" << std::endl;
 	
