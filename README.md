@@ -1,4 +1,4 @@
-# Programiranje 1 - Zadaci
+# Programiranje 1
 
 ```c++
 int main() {
